@@ -95,7 +95,7 @@ Relational structure ensures data consistency and role-based access.
 ![Student Panel](images/student_panel.png)
 
 ### Student – Exam Results
-![Student Exam Results](images/student_exam_results.png)
+![Student Exam Results](images/student_exam_results1.png)
 
 ### Student – Performance Chart
 ![Student Performance Chart](images/student_performance_chart.png)
